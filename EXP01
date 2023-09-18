@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>LENSWORLD</title>
+
+</head>
+<body bgcolor="white">
+   <br/>
+   <h2 align="center">
+      WELCOME TO YOUR LENSWORLD
+    </h2>
+    <div>
+      <a href="#">HOME</a>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="#">ABOUT US</a>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="#">NEWS</a>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="#">REVIEWS</a>
+   </div>
+   <h2 align="center">ABOUT US</h2>
+   <p>
+      Founded in 2020 by renowned advertising photographer AMIRTHA, this is exclusively for women photographers. While some of these women are motivated by fame and fortune, 
+      the average woman is drawn to the photographer to fulfill a very important feminine desire: The desire to be seen. To be seen is very different from simply being looked or appreciated as a sexual woman. 
+      To be seen is to be discovered, revealed. As she was inspired by the nature and the way she see the nature is absolutely a reason to create this website for womens.
+      Especially, She want womens to be a major part of this revolution because many of the females are restricted to become a photographer. So let us become stronger and grow together as a family.
+   </p>
+   <h2 align="center">OUR BACKBONES</h2>
+   <img src="staff1.jpeg" alt="staff1" height="200px">
+   <img src="staff4.jpeg" alt="staff2" height="200px">
+   <img src="staff3.jpeg" alt="staff3" height="200px">
+   <img src="staff5.jpeg" alt="staff4" height="200px">
+   <img src="staff6.webp" alt="staff5" width="250px" height="200px">
+   <h2 align="center">MAGAZINES</h2>
+   <img src="mag1.jpeg" alt="achieve" width="250px" height="200px">
+   &nbsp;&nbsp;&nbsp;
+   <img src="mag2.jpeg" alt="achieve" width="250px" height="200px">
+   &nbsp;&nbsp;&nbsp;
+   <img src="mag3.jpeg" alt="achieve" width="250px" height="200px">
+   &nbsp;&nbsp;&nbsp;
+   <img src="mag4.png" alt="achieve" width="250px" height="200px">
+   &nbsp;&nbsp;&nbsp;
+   <img src="mag5.jpg" alt="achieve" width="250px" height="200px">
+   <h2> TO KNOW MORE ABOUT US VISIT OUR OFFICIAL WEBSITE</h2>
+   <a href="mystudio/myshop.html"> CLICK HERE !!</a>
+
+
+   
+</body>
+</html>
+
+         
